@@ -10,7 +10,7 @@ Founder and Owner of The Gang, The Gang Modpacks
 Also a Minecraft Mod Developer
 
 ### Ogmon1243
-![](profile/Pickle.jpeg)
+![](profile/Pickle.jpg)
 
 https://github.com/Ogmon1243
 Co-Founder and Head of The Gang Modpacks
