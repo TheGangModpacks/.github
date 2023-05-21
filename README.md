@@ -3,6 +3,7 @@ The Gang Modpacks is a group split off from The Gang, a group of awesome people 
 ## Our Members
 
 ### FooterMan15
+![](profile/FM15-May.png)
 https://github.com/FooterMan15
 Founder and Owner of The Gang, The Gang Modpacks
 Also a Minecraft Mod Developer
