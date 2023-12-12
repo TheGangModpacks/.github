@@ -16,5 +16,5 @@ Co-Founder and Head of The Gang Modpacks
 ### WitherTM
 https://github.com/WitherTM
 
-Developer for The Gang Modpacks
+Developer for The Gang Modpacks   
 Mod Developer
