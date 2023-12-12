@@ -2,14 +2,12 @@ The Gang Modpacks is a group split off from The Gang, a group of awesome people 
 
 ## Our Members
 
-### FooterMan15
-https://github.com/FooterMan15
+### <img src="https://github.com/TheGangModpacks/.github/blob/main/profile/50pxFM15-December.png?raw=true">  [FooterMan15](https://github.com/FooterMan15)
 
 Founder and Owner of The Gang, The Gang Modpacks  
 Mod Developer
 
-### Ogmon1243
-https://github.com/Ogmon1243
+### <img src="https://github.com/TheGangModpacks/.github/blob/main/profile/Ogmon.png?raw=true">  [Ogmon1243](https://github.com/Ogmon1243)
 
 Co-Founder and Head of The Gang Modpacks
 
