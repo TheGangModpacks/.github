@@ -2,7 +2,7 @@ The Gang Modpacks is a group split off from The Gang, a group of awesome people 
 
 ## Our Members
 
-### <img src="https://github.com/TheGangModpacks/.github/blob/main/profile/50pxFM15-December.png?raw=true">  [FooterMan15](https://github.com/FooterMan15)
+### <img src="https://github.com/TheGangModpacks/.github/blob/main/profile/50pxFM15-December.png?raw=true">  [FooterMan](https://github.com/FooterMan15)
 
 Founder and Owner of The Gang, The Gang Modpacks  
 Mod Developer
